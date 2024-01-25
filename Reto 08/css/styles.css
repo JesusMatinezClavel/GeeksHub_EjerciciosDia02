@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 900px;
+}
+#main {
+    height: 100vh;
+    width: 100vw;
+    margin-left: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title {
+    font-size: 3em;
+    text-align: center;
+    letter-spacing: .5em;
+}
+.subtitle {
+    font-size: 2em;
+    border-bottom: 1px solid grey;
+}
+.green {
+    color: rgb(100, 196, 81);
+}
+.brown {
+    color: rgb(233, 158, 97);
+}
+.animal {
+    font-size: 1.5em;
+}
+#box {
+    margin: 3em;
+    padding: 1em;
+    border:solid grey 1px;
+}
+nav {
+    margin-block-start:2em;
+}
+#row {
+    display: flex;
+}

@@ -1,0 +1,6 @@
+ul, li {
+    list-style-type:none;
+}
+.list {
+    line-height: 3em;
+}

@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(212, 250, 250);
+}
+li {
+    margin-bottom: 1em;
+}
+@font-face {
+    font-family: 'Dancing Script';
+    src: url(https://fonts.gstatic.com/s/dancingscript/v25/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2)
+}
+h1, h2 {
+    font-family:'Dancing Script';
+}
+.mininumber {
+    font-size: .7em;
+}
