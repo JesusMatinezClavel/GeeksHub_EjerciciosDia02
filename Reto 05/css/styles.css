@@ -1,0 +1,31 @@
+body {
+    margin: 10;
+    padding: 0;
+    background-color: antiquewhite;
+}
+h1 {
+    color:blue;
+    margin-left:2rem;
+    padding-left: .5rem;
+    background-color: rgb(238, 175, 82);
+}
+
+h2 {
+    color:blue;
+    margin-left:2.5rem;
+}
+ul, li {
+    list-style-type:none;
+}
+.list {
+    line-height: 3em;
+}
+.title, h2 {
+    color: blue;
+    font-style: italic;
+}
+
+.list.title {
+    font-weight: bold;
+    font-style: normal;
+}
